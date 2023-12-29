@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Superheros App</string>
+    <string name="superhero_1">Izuku Midoriya</string>
+    <string name="superhero_2">Katsuki Bakugo</string>
+    <string name="superhero_3">Shoto Todoroki</string>
+    <string name="superhero_4">Ochaco Uraraka</string>
+    <string name="superhero_5">Tenya Ida</string>
+    <string name="superhero_6">Eijiro Kirishima</string>
+    <string name="superhero_7">Denki Kaminari</string>
+    <string name="superhero_8">Momo Yaoyorozu</string>
+    <string name="superhero_9">Yuga Aoyama</string>
+    <string name="superhero_10">Fumikage Tokoyami</string>
+    <string name="superhero_11">Mashirao Ojiro</string>
+    <string name="superhero_12">Hanta Sero</string>
+    <string name="superhero_13">Mirio Togata</string>
+    <string name="superhero_14">Shota Aizawa</string>
+    <string name="superhero_15">Present Mic</string>
+    <string name="superhero_16">All Might</string>
+    <string name="superhero_17">Endeavor</string>
+    <string name="superhero_18">All For One</string>
+    <string name="superhero_19">Tomura Shigaraki</string>
+    <string name="superhero_20">Eri</string>
+    <string name="superhero_21">Himiko Toga</string>
+    <string name="superhero_22">Twice</string>
+    <string name="superhero_23">Dabi</string>
+
+    <string name="quirk_1">One For All</string>
+    <string name="quirk_2">Explosion</string>
+    <string name="quirk_3">Half-Cold Half-Hot</string>
+    <string name="quirk_4">Zero Gravity</string>
+    <string name="quirk_5">Engine</string>
+    <string name="quirk_6">Hardening</string>
+    <string name="quirk_7">Electrification</string>
+    <string name="quirk_8">Creation</string>
+    <string name="quirk_9">Navel Laser</string>
+    <string name="quirk_10">Dark Shadow</string>
+    <string name="quirk_11">Tail</string>
+    <string name="quirk_12">Tape</string>
+    <string name="quirk_13">Permeation</string>
+    <string name="quirk_14">Erasure</string>
+    <string name="quirk_15">Voice</string>
+    <string name="quirk_16">One For All</string>
+    <string name="quirk_17">Hellflame</string>
+    <string name="quirk_18">All For One</string>
+    <string name="quirk_19">Decay</string>
+    <string name="quirk_20">Rewind</string>
+    <string name="quirk_21">ShapeShifting</string>
+    <string name="quirk_22">Cloning</string>
+    <string name="quirk_23">Blueflame</string>
+    
+    <string name="description_1">
+        Izuku was born without any unique superpower, or "Quirk",
+        to call his own unlike his parents and 80% of the world\'s population.
+        Despite this setback, he grew up with aspirations to be a hero in his own right and began to idolize the superhero All Might.
+    </string>
+    <string name="description_2">
+        There was a time when Bakugo felt like nothing more than a run-of-the-mill rival who was there just to serve as a foil for
+        the main character. However, viewers soon managed to see a deeper side to his character that peaked during his battle with Midoriya.
+        Ever since then, Bakugo has managed to become one of the most alluring parts of the series,
+        with his brash and explosive personality being an absolute treat to witness at times.
+</string>
+    <string name="description_3">
+        Born with one of the most powerful Quirks in the series, Todoroki\'s character development and the acceptance of his fire powers
+        have helped him become a standout figure in the series.
+        While the latest seasons might not have placed him in the limelight as frequently as in earlier arcs,
+        this is bound to change given his familial relations with Dabi.
+        The clash between both heroes is going to make for a great time indeed, and fans can\'t wait to see this battle be animated in due time.
+    </string>
+    <string name="description_4">
+        While Uraraka might not have had many instances in the series to let her Quirk shine, the character is still compelling to watch,
+        regardless. It\'s clear that Uraraka is meant to be Midoriya\'s love interest,
+        but the way in which their potential romance has been handled does negatively affect her character somewhat.
+        However, players who manage to look past these occasional moments of poor writing will find themselves enjoying the personality of
+        this bubbly character quite a bit.
+        It helps that her power is fairly interesting and can be used in pretty unique ways over the course of the show — something that
+        is very much required given that this character hasn\'t enjoyed nearly enough screen time in combat as some of the other side
+        characters in the series.
+    </string>
+    <string name="description_5">
+        The goody-two-shows of Class 1-A and one of Midoriya\'s closest friends, I
+        da is one of the many characters in My Hero Academia whose Quirk holds quite a lot of potential.
+        Unfortunately, aside from occasional moments such as his battle against the Hero Killer Stain,
+        Ida hasn\'t really had the opportunity to showcase his skills in the anime.
+        Hopefully, the later arcs of My Hero Academia will help him stand in the spotlight once again.
+    </string>
+    <string name="description_6">
+        There was a time when many people thought Kirishima would be nothing more than just another hero in Class 1-A.
+        However, it seems that his hardening power would prove to be quite useful during pivotal moments in the story.
+        This led to Red Riot having his fair share of memorable moments scattered across the series, with his hardening
+        Quirk proving to be quite useful indeed. Fans can\'t wait to see where else this fledgling hero will help out in the series.
+    </string>
+    <string name="description_7">
+        At a glance, it didn\'t seem like Kaminari\'s electrical Quirk would be too much of a help since it ate away at his mental
+        capacities in the process. However, just like everyone else in the show, he decided to work on his Quirk and improve its
+        effectiveness in battle.
+        This led to the hero performing some pretty cool feats, including the act of attracting electricity and preventing any harm
+        from befalling his friends. It\'s only a glimpse of Kaminari\'s potential, which is sure to hit massive heights over time.
+    </string>
+    <string name="description_8">
+        Some people may write off Momo as a character made solely for fanservice purposes,
+        which takes on an added level of creepiness since she\'s still in school. However, despite her unnecessarily revealing outfit,
+        Momo has proven herself to be pretty useful when the situation calls for it.
+        She can conjure a ton of useful items and the like using her Creation Quirk. Without her help, Gigantomachia would\'ve gone on a
+        rampage and destroyed pretty much everything and anything during the Paranormal Liberation War.
+    </string>
+    <string name="description_9">
+        The idea of shooting a laser from a navel sounds like one of the stupidest powers around. However, in the hands of the right hero,
+        this navel laser can be quite damaging and wreck most enemies with ease.
+        Only time will tell before Yuga will show just how powerful his Quirk can be if he really puts his mind to it.
+        His penchant for being flamboyantly hilarious really takes over his character at times, which is both a good and bad thing.
+    </string>
+    <string name="description_10">
+        Operating under the hero name of Jet-Black Hero, Fumikage Tsukuyomi has one of the most interesting Quirks in My Hero Academia.
+        The Dark Shadow is a sentient monster that, as its name suggests, grows more powerful in the absence of light.
+        However, the stronger Dark Shadow gets, the harder it is for Fumikage to control it.
+        Fumikage tends to slip into the background in most social situations, particularly early on in the story; however,
+        this does begin to change as the anime progresses. Fumikage is powerful, well-liked, and reliable.
+    </string>
+    <string name="description_11">
+        Given the large number of students in Class 1-A, it\'s only a given that not all of them will have a hugely prominent role.
+        After all, even given the nature of anime itself, it\'s really hard to believe that every member of this class is spectacular and
+        important in any way. This led to some characters not really being all that important in the grand scheme of things,
+        and Mashirao Ojiro is a great example of this.
+        His powers are pretty basic and nothing to write home about, making him one of the most unremarkable members of the class.
+        Sure, he may be good in close-range combat and his tail gives him an extra opportunity to attack people,
+        but that\'s nothing compared to the many unique powers that his classmates have.
+    </string>
+    <string name="description_12">
+        The members of Class 1-A are meant to be prodigies with incredible Quirks that can help them become some of the greatest heroes
+        of all time. For the most part, the majority of the students in this class definitely live up to this promise and do a great job
+        of justifying their position in the class, but there are some heroes with powers so unremarkable that their placement in this class
+        seems rather hard to believe.
+        A great example of this is Hanta Sero, a student with one of the worst powers in the series. He can generate tape from his body,
+        which may be a rather convenient power to have if someone needs to seal a box… but it doesn\'t really seem all that
+        helpful during combat. For what it\'s worth, the show has tried to make him look pretty effective in combat, but there\'s a reason
+        why he hasn\'t played a major role in some of the more high-stakes battles in the series.
+    </string>
+    <string name="description_13">
+        Regarded as the top student at U.A. High School, Mirio\'s energetic and carefree demeanor doesn\'t give away just how capable
+        of a hero and fighter he is. Prior to All Might discovering Deku, Mirio looked set to inherit One For All and become the new Symbol
+        of Peace, and it isn\'t difficult to see why he was considered a worthy successor to this world\'s greatest hero.
+        Mirio\'s Quirk, Permeation, turns him intangible, an ability that the student has explored to its full potential.
+        While he might\'ve lost his powers during his fight with Overhaul, fans were elated to see him make a comeback during the
+        closing stages of the Paranormal Liberation War arc.
+    </string>
+    <string name="description_14">
+        The homeroom teacher of Class 1-A is a powerful hero. Aizawa\'s ability to cancel out Quirks for a limited period of time has
+        proven to be quite useful in a tough spot.
+        This, coupled with this knack for hand-to-hand combat, makes it easy to see why Eraserhead is a favorite of many fans.
+        Given how events in the manga have developed up to now, one can only wait and see how he handles himself in a fight where
+        everything is on the line.
+    </string>
+    <string name="description_15">
+        Present Mic is a hero who seemed like nothing more than comic relief early on in the series. However,
+        after his background with Aizawa is expanded upon, viewers realize just how important this character\'s backstory really is.
+        This has made him one of the more intriguing characters in the series. While their third friend may be too far gone right now,
+        fans can only hope that the friendship of this trio is rekindled once again.
+    </string>
+    <string name="description_16">
+        The former No. 1 Hero is one of My Hero Academia\'s most recognizable characters, with his dual personality being quite
+        intriguing to witness in its own right. However, while the current version of All Might may not be all that spectacular,
+        his legacy more than speaks for himself and his achievements.
+        A gifted wielder of One for All who managed to use this power to great effect in order to take care of any threats that
+        would endanger the lives of civilians, All Might was very much worthy of the No. 1 spot in his heyday.
+        One can only wait and see the role that his powerless counterpart will play in the events to come.
+    </string>
+    <string name="description_17">
+        At the start of the series, Endeavor genuinely seemed like a horrible father. It was hinted that he\'d abused his wife and children,
+        while he also seemed rather petty for being stuck in All Might\'s shadow until the forced retirement of the former No. 1 Hero.
+        However, over time, Endeavor\'s character has been built upon quite a bit in order to humanize him more in the eyes of
+        audiences who\'d only seen his savage side. His fight against the advanced Nomu was easily one of the major highlights of this character,
+        and the fact that Dabi was actually his long-lost son has added a ton of depth to a character who seemed rather one-note at times.
+    </string>
+    <string name="description_18">
+        A dastardly villain whose fight with All Might put the wielder of One for All out of business for good,
+        All for One is an intriguing villain. Aside from the amazing fight that he has with All Might,
+        his sporadic appearances throughout the series have also been quite entertaining in their own right.
+        However, given how the events of the anime and manga have unfolded, it\'s very clear that All for One has no
+        intentions of being succeeded by anyone else. The fact that he\'s trying to take over Shigaraki\'s body is proof enough.
+    </string>
+    <string name="description_19">
+        Shigaraki is one of the scariest villains in the series. His twisted motives and horrifying power have established him as a
+        compelling villain who is bound to play a major role throughout My Hero Academia.
+        Shigaraki\'s dynamic with Midoriya has made for an enthralling watch. Most fans can\'t wait to see the personifications of
+        good and evil in the series duke it out in the show once and for all.
+    </string>
+    <string name="description_20">
+        Central to the Shie Hassaikai Arc, Eri is a young girl who has been through hell for most of her life.
+        Eri\'s Quirk, Rewind, allows her to return a person to a previous state, which includes before they came to be. Eventually,
+        Eri fell into the hands of Kai Chisaki, who manipulated the girl to his own ends.
+        Eri is an easy character to root for. She goes through quite an arc in My Hero Academia,
+        one that comes with an emotional payoff. Fans can\'t wait for the time when she finally learns to control her Quirk
+        and becomes one of the most powerful heroes in My Hero Academia since she definitely has that potential.
+    </string>
+    <string name="description_21">
+        Himiko Toga is one of the most captivating villains in My Hero Academia. Her yandere personality was an instant hit with fans
+        who loved seeing this bloodthirsty villain in action. It helps that the unhealthy infatuation she has with Midoriya makes her
+        even more riveting as well!
+        The latest season of My Hero Academia took a deeper look at the villains and the lengths they\'ll go to ensure that
+        Shigaraki\'s dream becomes a reality. This led to Himiko getting a boost to her powers, letting her imitate the Quirk of the
+        person she\'s impersonating. Suffice it to say, it\'s clear that Toga will play a major role over the course of My Hero Academia
+        and use her powers to great effect in later arcs.
+    </string>
+    <string name="description_22">
+        Another villain who has become a fan favorite is Twice. The episode that expanded on his character was pretty interesting and
+        showed a side of this villain that gave his personality some serious depth. The fact that he is conflicted about whether
+        he\'s a clone or real is a pretty unique direction to take for this character, and his Quirk ended up becoming all the more
+        impressive during the last season.
+        After seeing Himiko almost lose her life at the hands of Re-Destro\'s lackeys, Twice unlocked a new power that let him make as
+        many clones as he wanted without too many limitations. It\'s easy to see why this power would pose a major threat to the heroes,
+        and only time will tell how Twice will make the most of his upgraded powers in the anime.
+    </string>
+    <string name="description_23">
+        Dabi was already a pretty interesting character as is, with many fans wondering just how hot his flames could be.
+        However, this was far from the biggest revelation surrounding his character,
+        with this villain proudly revealing himself to be Endeavor\'s son, Toya Todoroki.
+        It\'s clear that Dabi is bound to play a huge role in the coming events of My Hero Academia.
+        His battles with his brother and son are going to be quite fun to behold in My Hero Academia,
+        and fans can\'t wait to see this confrontation later on in the series.
+    </string>
+
+
+</resources>
